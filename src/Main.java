@@ -6,10 +6,12 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
         System.out.println("HelloWorld!");
-        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");dfdsfdsfd
         System.out.println("fjghfjkdsfbdskjfb");
-        System.out.println("HelloWorld!");
-        System.out.println("HelloWorld!");
+        System.out.dsfdsfdsfdsfdsfdsfprintln("HelloWorld!");
+        System.out.pdsfdsfdsfrintln("H" +
+                "" +
+                "fdsfdsfdsfdsfsdelloWorld!");
         System.out.println("HelloWorld!");
     }
 }
